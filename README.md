@@ -3,7 +3,7 @@ ImageSlider
 
 Dモーニングで使われているパラパラ・スライダーの解説用サンプルソースです。
 
-![Alt screen shot](/https://github.com/banwanko/ImageSlider/blob/master/ss.png)
+![Alt screen shot](ss.png)
 
 Dモーニングについて
 ---------------------------------
